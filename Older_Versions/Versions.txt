@@ -1,0 +1,14 @@
+Dimensions_March_13_2021
+-------------------------------------------
+This is Version 1.0 of Dimensions.
+This version has 10 default programs
+and 10 templates for users to create
+their own programs (i.e. functions)
+
+Dimensions_December_18_2021
+-------------------------------------------
+This is Version 1.1 of Dimensions.
+This version has 20 default programs.
+Any of these 20 programs can be edited
+by the users to create their own programs
+(i.e. functions)
